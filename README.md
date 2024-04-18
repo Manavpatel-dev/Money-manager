@@ -8,9 +8,6 @@ A simple and secure money manager that keeps you financially vigilant.
 
 <a href="https://play.google.com/store/apps/details?id=today.bethrifty.app" target="_blank"><img src="https://bethrifty.today/assets/buttons/google-play-badge.png" width="200px" alt="Get the App on the Google Play Store" /></a>
 
-## Website
-
-<a href="https://bethrifty.today" target="_blank">https://bethrifty.today</a>
 
 ## Short Description
 
